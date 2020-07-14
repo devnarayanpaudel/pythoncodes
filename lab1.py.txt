@@ -1,0 +1,7 @@
+/usr/env/python
+
+input = ("Please input the string")
+if (input == 'y'):
+    print("this place is for you")
+else:
+    print("Can you sign in to another area")
